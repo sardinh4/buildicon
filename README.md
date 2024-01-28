@@ -19,4 +19,4 @@ https://youtu.be/DFUT5s5SasA
 
 🔗 Link da Demo da Página:
 
-https://sardinh4.github.io/BuildIcon/
+https://sardinh4.github.io/buildicon/
